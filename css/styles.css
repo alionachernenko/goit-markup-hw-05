@@ -382,7 +382,7 @@ address .list :not(:last-child) {
 }
 
 .benefit-icon {
-    width: 62px;
+    width: 70px;
     height: 70px;
 }
 
@@ -666,7 +666,7 @@ header {
 
 .footer .container{
     display: flex;
-    align-items: center;
+    align-items: baseline;
     gap: 70px;
 }
 
